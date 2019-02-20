@@ -3,13 +3,17 @@ myproject
 =========
 
 
-Add a short description here!
+Hello Team members!
+
+<p> Great team name! <p>
 
 
 Description
 ===========
 
-A longer description of your project goes here...
+
+
+
 
 
 Note
@@ -17,3 +21,4 @@ Note
 
 This project has been set up using PyScaffold 3.1. For details and usage
 information on PyScaffold see https://pyscaffold.org/.
+
