@@ -5,7 +5,7 @@ myproject
 
 Hello Team members!
 
-<p> Great team name! <p>
+Great team name!
 
 
 Description
