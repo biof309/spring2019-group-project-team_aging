@@ -2,4 +2,5 @@
 Contributors
 ============
 
-* Martin Skarzynski <marskar@gmail.com>
+* Catherine Jaeger <catherine.jaeger@nih.gov>
+* Ben Fadl <benjamin.fadl@nih.gov>
